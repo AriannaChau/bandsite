@@ -1,0 +1,21 @@
+.sidebar {
+  background-color: #6FF2E0;
+  float: left;
+}
+
+.column {
+  width: 200px;
+  float: left;
+  text-align: center;
+}
+
+.images {
+  float: right;
+  width: 35%;
+
+}
+
+h1 {
+  text-align: center;
+  color: #F48727;
+}
