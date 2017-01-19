@@ -1,18 +1,22 @@
 .sidebar {
   background-color: #6FF2E0;
   float: left;
+  border: 4px dotted #EE4D43;
+  margin: 2px;
+  padding: 5px;
 }
 
 .column {
   width: 200px;
   float: left;
-  text-align: center;
+  text-align: left;
+  padding-left: 10px;
 }
 
 .images {
   float: right;
-  width: 35%;
-
+  width: 30%;
+  padding: 1%;
 }
 
 h1 {
